@@ -2,15 +2,17 @@
 ## Between
 
 ### Turntabl Limited
-2 Drake House, Cool Way
-Taunton, Somerset
+2 Drake House,\
+Cool Way,\
+Taunton,\
+Somerset\
 TA2 6BJ
 
 and
 
 ### Turntabl Ghana Limited
-J30A, Adoagyiri-Zongo
-Nsawam, E/R
+J30A, Adoagyiri-Zongo\
+Nsawam, E/R\
 Ghana
 
 This Memorandum of Understanding (MoU) sets the terms and understanding between the two companies Turntabl Limited (Turntabl UK) and Turntabl Ghana Limited (Turntabl Ghana):
@@ -45,11 +47,11 @@ This MOU is at-will and may be modified by mutual consent of authorised official
 
 The following parties affirm to know, understand and agree to all articles of this MoU, as negotiated together:
 
-Samuel Moorhouse
+Samuel Moorhouse\
+Director\
 Turntabl Limited
-Director
 
-Inusa Ibrahim
+Inusa Ibrahim\
+Director\
 Turntabl Ghana Limited
-Director
 
